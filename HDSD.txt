@@ -1,5 +1,0 @@
-- Đăng nhập với tài khoản admin và mật khẩu là admin
-- Sau khi vào trang chủ, trang chủ sẽ show ra thông tin
-- Click vào thêm mới để thêm mới 1 sinh viên
-- Click vào sửa để sửa 1 sinh viên
-- Click vào xóa để xóa 1 sinh viên
